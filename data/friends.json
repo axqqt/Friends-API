@@ -25,5 +25,28 @@
         "id":5,
         "Name":"Raiyan",
         "Description":"The Apex Legends god"
+    },
+    {
+        "id":6,
+        "Name":"Eric",
+        "Description":"Gets mad easily"
+    },
+    {
+        "id":7,
+        "Name":"Harindu","Description":"SL's best ICT student"
+    },
+    {
+        "id":8,
+        "Name":"Binuka",
+        "Description":"Tech Nerd , that loves to talk about his NextJS Skills"
+    },
+    {
+        "id":9,
+        "Name":"Dineth","Description":"Finds the most unfunny memes hilarious"
+    }, 
+    {
+        "id":10,
+        "Name":"Me",
+        "Description":"Idk u should ask someone else that question lol"
     }
 ]
