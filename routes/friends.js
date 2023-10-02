@@ -5,7 +5,7 @@ data.users = require("../data/friends");
 
 
 router.route("/").get((req,res)=>{
-    res.json({"Message":"Enter id 1-5 (http://localhost:8000/friends/id) to get details about each of my friends"});
+    res.json({"Message":"Enter id 1-10 (http://localhost:8000/friends/id)//POST to get details about each of my friends"});
 });
 
 router.route("/:id").post(async (req, res) => {
