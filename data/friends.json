@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "Name":"Nethma",
+        "Description":"Mr.Motivated"
+    },
+    
+    {
+        "id":2,
+        "Name":"Radhul",
+        "Description":"The meme god"
+    },
+      
+    {
+        "id":3,
+        "Name":"Chanditha",
+        "Description":"The top scholar"
+    }, 
+    {
+        "id":4,
+        "Name":"Infas",
+        "Description":"Always out the country, probably somewhere in Malaysia right now lol"
+    },
+    {
+        "id":5,
+        "Name":"Raiyan",
+        "Description":"The Apex Legends god"
+    }
+]
