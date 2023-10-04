@@ -6,6 +6,10 @@ const path = require("path");
 
 
 app.use(express.json());
+if (!fs.existsSync(path.join(__dirname, "public"))) {
+  fs.mkdirSync(path.join(__dirname, "public"));
+}
+app.use(express.static(path.join(__dirname, "public")));
 
 app.use("/friends", require("./routes/friends"));
 
